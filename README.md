@@ -1,4 +1,4 @@
-# Проекта Airplanet
+# Проект Airplanet
 
 ## Контакты
 
